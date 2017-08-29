@@ -20,3 +20,6 @@ Pioglitazone - Actos; Antidiabetic Agent
 Trazodone - Desyrel; antidepressant
 Fexofenadine - Allegra; histamine H1 receptor antagonist
 Cephalexin - Keflex; Cephlasporin Antibiotic
+Esomprazole - Nexium; Antigastric acid secretor
+Alendronate - Fosamax; inhibits bone reabsorption
+Montelukast - Singulair; Leukotriene receptor antagonist.
