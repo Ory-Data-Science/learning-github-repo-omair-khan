@@ -24,3 +24,6 @@ Esomprazole - Nexium; Antigastric acid secretor
 Alendronate - Fosamax; inhibits bone reabsorption
 Montelukast - Singulair; Leukotriene receptor antagonist.
 
+This is an example of the type of drugs pharmacist encouter. 
+The other sort of specfic data would be the dosage, the type of medicine and effect, the inssurance provider. 
+This is not an inclusive list of all the data for pharmacist, however it is a broad understanding retail 
