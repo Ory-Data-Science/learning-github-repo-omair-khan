@@ -14,3 +14,5 @@ Cyclobenzaprine - Flexeril; Skeletal muscle relaxant. Relaxes muscle
 Glipizide - glucotrol; blood glucose reducer
 Fluconazole - diflucan; synthetic antifungal
 Verapamil - Calan; Calcium channel blocker
+Penicillin VK - V TIDS; Antibiotics
+Losartan - Cozaar; Angiotensin II receptor antagonist
