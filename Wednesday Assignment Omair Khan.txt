@@ -10,3 +10,4 @@ Types of fast mover drugs at CVS, prarie village.
 
 Warfarin - Coumadin; Anticoagulant
 omeprazole- prilosec; gastric acid inhibitor
+Cyclobenzaprine - Flexeril; Skeletal muscle relaxant. Relaxes muscle
