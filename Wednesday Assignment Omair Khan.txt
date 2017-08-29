@@ -6,8 +6,8 @@ Bonus - submit somebody elses.
 
 Type something in
 
-Types of fast mover drugs at CVS, prarie village.
-
+Types of fast mover drugs that I dealt with as a tech directed by pharmacist at CVS.
+Name - Common name; what it does.
 Warfarin - Coumadin; Anticoagulant
 omeprazole- prilosec; gastric acid inhibitor
 Cyclobenzaprine - Flexeril; Skeletal muscle relaxant. Relaxes muscle
@@ -23,3 +23,4 @@ Cephalexin - Keflex; Cephlasporin Antibiotic
 Esomprazole - Nexium; Antigastric acid secretor
 Alendronate - Fosamax; inhibits bone reabsorption
 Montelukast - Singulair; Leukotriene receptor antagonist.
+
