@@ -16,3 +16,4 @@ Fluconazole - diflucan; synthetic antifungal
 Verapamil - Calan; Calcium channel blocker
 Penicillin VK - V TIDS; Antibiotics
 Losartan - Cozaar; Angiotensin II receptor antagonist
+Pioglitazone - Actos; Antidiabetic Agent
