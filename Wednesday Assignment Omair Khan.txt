@@ -19,3 +19,4 @@ Losartan - Cozaar; Angiotensin II receptor antagonist
 Pioglitazone - Actos; Antidiabetic Agent
 Trazodone - Desyrel; antidepressant
 Fexofenadine - Allegra; histamine H1 receptor antagonist
+Cephalexin - Keflex; Cephlasporin Antibiotic
