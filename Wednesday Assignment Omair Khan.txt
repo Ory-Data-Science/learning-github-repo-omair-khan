@@ -13,3 +13,4 @@ omeprazole- prilosec; gastric acid inhibitor
 Cyclobenzaprine - Flexeril; Skeletal muscle relaxant. Relaxes muscle
 Glipizide - glucotrol; blood glucose reducer
 Fluconazole - diflucan; synthetic antifungal
+Verapamil - Calan; Calcium channel blocker
